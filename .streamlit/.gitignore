@@ -1,0 +1,26 @@
+# Streamlit secrets (contains API keys, DB creds)
+.streamlit/secrets.toml
+
+# Python cache
+_pycache_/
+*.py[cod]
+*.pyo
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment files
+.env
+.venv/
+venv/
+
+# Logs
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.bak

@@ -1,0 +1,14 @@
+username,message,timestamp,is_read
+procure_user,New vendor 'Ismail' has registered.,2025-08-09 22:58:38,False
+procure_user,New proposal from Akash developers.,2025-08-09 22:59:35,False
+procure_user,New vendor 'ANJITH' has registered.,2025-08-09 23:06:43,False
+procure_user,New proposal from The Muscle Merchant.,2025-08-09 23:08:05,False
+Ismail,ACTION: Your proposal for 'M20' is provisionally accepted. Please email certificates to procurement@company.com.,2025-08-09 23:19:08,False
+procure_user,Certificates have been submitted via email for 'M20' from Akash developers.,2025-08-09 23:21:51,False
+Ismail,Your proposal for 'M20' has been ACCEPTED.,2025-08-09 23:23:39,False
+site_user,Approved: 'M20' from Akash developers.,2025-08-09 23:23:39,False
+procure_user,DISPATCHED: 'M20' from Akash developers.,2025-08-09 23:28:20,False
+site_user,DELIVERY: 'M20' from Akash developers scheduled for 2025-08-09 08:45.,2025-08-09 23:28:20,False
+Ismail,Delivery of 'M20' was received.,2025-08-09 23:29:56,False
+procure_user,DELIVERED: 'M20' from Akash developers.,2025-08-09 23:29:56,False
+procure_user,REVIEW: A 5-star review for 'M20' from Akash developers.,2025-08-09 23:31:14,False
